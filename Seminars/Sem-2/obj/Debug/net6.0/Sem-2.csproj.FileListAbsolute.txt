@@ -1,0 +1,15 @@
+D:\учеба\Введение в языки программирования\language C#\Seminars\Sem-2\bin\Debug\net6.0\Sem-2.exe
+D:\учеба\Введение в языки программирования\language C#\Seminars\Sem-2\bin\Debug\net6.0\Sem-2.deps.json
+D:\учеба\Введение в языки программирования\language C#\Seminars\Sem-2\bin\Debug\net6.0\Sem-2.runtimeconfig.json
+D:\учеба\Введение в языки программирования\language C#\Seminars\Sem-2\bin\Debug\net6.0\Sem-2.dll
+D:\учеба\Введение в языки программирования\language C#\Seminars\Sem-2\bin\Debug\net6.0\Sem-2.pdb
+D:\учеба\Введение в языки программирования\language C#\Seminars\Sem-2\obj\Debug\net6.0\Sem-2.csproj.AssemblyReference.cache
+D:\учеба\Введение в языки программирования\language C#\Seminars\Sem-2\obj\Debug\net6.0\Sem-2.GeneratedMSBuildEditorConfig.editorconfig
+D:\учеба\Введение в языки программирования\language C#\Seminars\Sem-2\obj\Debug\net6.0\Sem-2.AssemblyInfoInputs.cache
+D:\учеба\Введение в языки программирования\language C#\Seminars\Sem-2\obj\Debug\net6.0\Sem-2.AssemblyInfo.cs
+D:\учеба\Введение в языки программирования\language C#\Seminars\Sem-2\obj\Debug\net6.0\Sem-2.csproj.CoreCompileInputs.cache
+D:\учеба\Введение в языки программирования\language C#\Seminars\Sem-2\obj\Debug\net6.0\Sem-2.dll
+D:\учеба\Введение в языки программирования\language C#\Seminars\Sem-2\obj\Debug\net6.0\refint\Sem-2.dll
+D:\учеба\Введение в языки программирования\language C#\Seminars\Sem-2\obj\Debug\net6.0\Sem-2.pdb
+D:\учеба\Введение в языки программирования\language C#\Seminars\Sem-2\obj\Debug\net6.0\Sem-2.genruntimeconfig.cache
+D:\учеба\Введение в языки программирования\language C#\Seminars\Sem-2\obj\Debug\net6.0\ref\Sem-2.dll
