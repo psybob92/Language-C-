@@ -1,0 +1,14 @@
+D:\учеба\Введение в языки программирования\language C#\Seminars\Sem-4\bin\Debug\net7.0\Sem-4.exe
+D:\учеба\Введение в языки программирования\language C#\Seminars\Sem-4\bin\Debug\net7.0\Sem-4.deps.json
+D:\учеба\Введение в языки программирования\language C#\Seminars\Sem-4\bin\Debug\net7.0\Sem-4.runtimeconfig.json
+D:\учеба\Введение в языки программирования\language C#\Seminars\Sem-4\bin\Debug\net7.0\Sem-4.dll
+D:\учеба\Введение в языки программирования\language C#\Seminars\Sem-4\bin\Debug\net7.0\Sem-4.pdb
+D:\учеба\Введение в языки программирования\language C#\Seminars\Sem-4\obj\Debug\net7.0\Sem-4.GeneratedMSBuildEditorConfig.editorconfig
+D:\учеба\Введение в языки программирования\language C#\Seminars\Sem-4\obj\Debug\net7.0\Sem-4.AssemblyInfoInputs.cache
+D:\учеба\Введение в языки программирования\language C#\Seminars\Sem-4\obj\Debug\net7.0\Sem-4.AssemblyInfo.cs
+D:\учеба\Введение в языки программирования\language C#\Seminars\Sem-4\obj\Debug\net7.0\Sem-4.csproj.CoreCompileInputs.cache
+D:\учеба\Введение в языки программирования\language C#\Seminars\Sem-4\obj\Debug\net7.0\Sem-4.dll
+D:\учеба\Введение в языки программирования\language C#\Seminars\Sem-4\obj\Debug\net7.0\refint\Sem-4.dll
+D:\учеба\Введение в языки программирования\language C#\Seminars\Sem-4\obj\Debug\net7.0\Sem-4.pdb
+D:\учеба\Введение в языки программирования\language C#\Seminars\Sem-4\obj\Debug\net7.0\Sem-4.genruntimeconfig.cache
+D:\учеба\Введение в языки программирования\language C#\Seminars\Sem-4\obj\Debug\net7.0\ref\Sem-4.dll
