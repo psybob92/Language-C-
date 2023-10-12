@@ -1,0 +1,14 @@
+D:\учеба\Введение в языки программирования\language C#\Home Works\HW-5\obj\Debug\net7.0\HW-5.GeneratedMSBuildEditorConfig.editorconfig
+D:\учеба\Введение в языки программирования\language C#\Home Works\HW-5\obj\Debug\net7.0\HW-5.AssemblyInfoInputs.cache
+D:\учеба\Введение в языки программирования\language C#\Home Works\HW-5\obj\Debug\net7.0\HW-5.AssemblyInfo.cs
+D:\учеба\Введение в языки программирования\language C#\Home Works\HW-5\obj\Debug\net7.0\HW-5.csproj.CoreCompileInputs.cache
+D:\учеба\Введение в языки программирования\language C#\Home Works\HW-5\bin\Debug\net7.0\HW-5.exe
+D:\учеба\Введение в языки программирования\language C#\Home Works\HW-5\bin\Debug\net7.0\HW-5.deps.json
+D:\учеба\Введение в языки программирования\language C#\Home Works\HW-5\bin\Debug\net7.0\HW-5.runtimeconfig.json
+D:\учеба\Введение в языки программирования\language C#\Home Works\HW-5\bin\Debug\net7.0\HW-5.dll
+D:\учеба\Введение в языки программирования\language C#\Home Works\HW-5\bin\Debug\net7.0\HW-5.pdb
+D:\учеба\Введение в языки программирования\language C#\Home Works\HW-5\obj\Debug\net7.0\HW-5.dll
+D:\учеба\Введение в языки программирования\language C#\Home Works\HW-5\obj\Debug\net7.0\refint\HW-5.dll
+D:\учеба\Введение в языки программирования\language C#\Home Works\HW-5\obj\Debug\net7.0\HW-5.pdb
+D:\учеба\Введение в языки программирования\language C#\Home Works\HW-5\obj\Debug\net7.0\HW-5.genruntimeconfig.cache
+D:\учеба\Введение в языки программирования\language C#\Home Works\HW-5\obj\Debug\net7.0\ref\HW-5.dll
