@@ -1,0 +1,14 @@
+D:\учеба\Введение в языки программирования\language C#\Home Works\HW-9\bin\Debug\net7.0\HW-9.exe
+D:\учеба\Введение в языки программирования\language C#\Home Works\HW-9\bin\Debug\net7.0\HW-9.deps.json
+D:\учеба\Введение в языки программирования\language C#\Home Works\HW-9\bin\Debug\net7.0\HW-9.runtimeconfig.json
+D:\учеба\Введение в языки программирования\language C#\Home Works\HW-9\bin\Debug\net7.0\HW-9.dll
+D:\учеба\Введение в языки программирования\language C#\Home Works\HW-9\bin\Debug\net7.0\HW-9.pdb
+D:\учеба\Введение в языки программирования\language C#\Home Works\HW-9\obj\Debug\net7.0\HW-9.GeneratedMSBuildEditorConfig.editorconfig
+D:\учеба\Введение в языки программирования\language C#\Home Works\HW-9\obj\Debug\net7.0\HW-9.AssemblyInfoInputs.cache
+D:\учеба\Введение в языки программирования\language C#\Home Works\HW-9\obj\Debug\net7.0\HW-9.AssemblyInfo.cs
+D:\учеба\Введение в языки программирования\language C#\Home Works\HW-9\obj\Debug\net7.0\HW-9.csproj.CoreCompileInputs.cache
+D:\учеба\Введение в языки программирования\language C#\Home Works\HW-9\obj\Debug\net7.0\HW-9.dll
+D:\учеба\Введение в языки программирования\language C#\Home Works\HW-9\obj\Debug\net7.0\refint\HW-9.dll
+D:\учеба\Введение в языки программирования\language C#\Home Works\HW-9\obj\Debug\net7.0\HW-9.pdb
+D:\учеба\Введение в языки программирования\language C#\Home Works\HW-9\obj\Debug\net7.0\HW-9.genruntimeconfig.cache
+D:\учеба\Введение в языки программирования\language C#\Home Works\HW-9\obj\Debug\net7.0\ref\HW-9.dll
